@@ -65,8 +65,3 @@ This tool is licensed under the GNU General Public License v3.0.
 
 [Icon](https://www.flaticon.com/free-icon/fingerprint-search-symbol-of-secret-service-investigation_48838) made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
 
-## Support
-
-<div align="center">
-  <img src="https://github.com/samsepoil1211/static/raw/main/sponsors.svg?v=c68eba9" width="100%" heigh="auto" />
-</div>
